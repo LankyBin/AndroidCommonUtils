@@ -4,8 +4,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.lanky.androidutils.NetUtils;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
